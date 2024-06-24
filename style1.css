@@ -1,0 +1,210 @@
+body{
+    background-color: rgb(133, 231, 250);
+    text-align: ;
+    font-family: serif;
+    
+}
+
+.mon-image{
+    background-image: url("C:\Users\Administrator\Documents\OIP (22).jpg");
+}
+
+.dispo{
+    background: linear-gradient(rgb(78, 159, 148),rgb(14, 201, 170),rgb(29, 125, 132));
+   text-shadow: 6px 6px 18px;
+   text-align: center;
+   font-size: 60px;
+   background-position: center;
+   font-weight: bold;
+   text-decoration: underline;
+   height: 170px;
+   border-radius: 450px 0px 450px 0px;
+   box-shadow: 6px 6px 18px;
+   padding-top: 80px;
+}
+
+h2{
+    text-align: center;
+    color: lightseagreen;
+}
+
+.slide{
+    background-image: Url('images/image4.jpg');
+    text-shadow: 8px 8px 15px black;
+    font-size: 18;
+}
+
+strong{
+    color: blueviolet;
+}
+
+p{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 5px;
+}
+
+a:hover{
+    font-style: italic;
+    color: red;
+    font-weight: 800;
+    opacity: 1;
+}
+.ma-class{
+    background-color: coral;
+    margin: 20px;
+    border: 2px solid pink; 
+    border: 2px solid black;
+    border-radius: 750px 750px 750px 750px;
+}
+
+.notre{
+    font-size: medium;
+}
+
+button{
+    border-radius: 10%;
+    right: 80%;
+    box-shadow: 10px;
+    border: 2px solid black; 
+}
+
+div{
+   
+    text-align: auto;  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 110%;
+   margin:auto;
+}
+
+input{
+    width: 20%;
+}
+
+.position{
+ text-align: justify;   
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 120px 120px 120px 120px 250px;
+    grid-template-rows: 3px 3px 3px 3px 3px 3px;
+    border: solid;
+    padding-bottom: 3px;
+    color: gray;
+}
+
+.subcontainer{
+    display: block;
+    flex-grow: inherit;
+    padding-bottom: 1px;
+    color: rgb(175, 178, 181);
+    row-gap: 2px;
+}
+
+table{
+    border-color: blue;
+    vertical-align: auto;
+    text-align: center;
+}
+
+a{
+    display: block;
+    width: 150px;
+    height: 20px;
+    row-gap: 3px;
+    text-align: center;
+    color: brown;
+    background-color: rgb(128, 107, 152);
+    background-position: auto;
+    
+}  
+
+fieldset{
+    background: rgba(115, 25, 195, 0.505);
+    display: block;
+    min-width: 300px;
+    min-height: 600px;
+    margin-block: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 390px;
+    max-height: 390px;
+    box-shadow: 20px 20px 70px;
+    border-radius: 20px; 
+}
+
+input[type="submit"]{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1em;
+    margin-right: 10px;
+    background-color: rgb(63, 75, 207);
+    width: 150px;
+}
+
+input,textarea{
+  padding: 10px;
+  border: 2px solid rgb(84, 25, 209);
+  outline: none;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  margin-left: ;
+  margin-right: 90px;
+  width: 30%;
+}
+
+legend{
+    background-color: rgba(176, 88, 223, 0.915);
+ 
+}
+
+.triple{
+    background-image: url(fond2.jpg);
+}
+
+form{
+text-align: right;
+}
+    
+label{
+    text-align: initial;
+ }
+
+marquee{
+    width: 600px;
+    color: brown;
+    text-align: center;
+}
+
+.determin{
+    display:block;
+    min-height: 350%;
+    height: 20%;
+    border-radius: 20px;
+    opacity: 60%;
+}
+
+.brand{
+    display: block; 
+    position: relative;
+    top: 15px;
+    left: -8px;
+    
+}
+
+.reel{
+    position: relative;
+    bottom: 30px;
+    font-size: 30px;
+}
+
+.troll{
+    width: 80%;
+}
+
+.clean{
+    background-image: url("fond2.jpg");
+}
